@@ -565,6 +565,8 @@ background: #126de4;
   .callout--primary {
     background: var(--color-primary);
     color: white;
+    width: 50%;
+    text-align: center;
   }
 
   .callout__heading {
