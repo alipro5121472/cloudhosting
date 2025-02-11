@@ -846,7 +846,8 @@ background: #126de4;
   /* Footer */
 
   .footer {
-    background: #232323;  
+    background: #232323;
+    margin-top: -80px;  
   }
 
   .footer a {
@@ -921,4 +922,10 @@ background: #126de4;
     }
   }
 
+  /* Over  */
+
+  .over--container {
+    display: inline-block;
+    margin: 0 20%;
+  }
   
