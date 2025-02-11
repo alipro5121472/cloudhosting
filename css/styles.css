@@ -565,14 +565,14 @@ background: #126de4;
   .callout--primary {
     background: var(--color-primary);
     color: white;
-    width: 50%;
+    width: 100%;
     text-align: center;
   }
 
   .callout__heading {
     color: white;
     margin-top: 0;
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .callout .btn {
@@ -582,6 +582,7 @@ background: #126de4;
 
   .callout__content {
     text-align: center;
+    font-size: 1.5rem;
   }
 
   @media screen and (min-width: 768px) {
@@ -595,7 +596,7 @@ background: #126de4;
 
     .callout .btn {
       justify-self: start;
-      margin: 0 2rem;
+      margin: 0;
     }
   }
 
